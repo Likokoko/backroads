@@ -1,6 +1,7 @@
 # [Backroads Web App](https://github.com/Likokoko/backroads.git)
  *  This is React travel-related web with several components such as including Navbar, Hero, About, Services, Tours, and Footer.  
-Skills Used
+
+# Skills Used
 * React
 * Creating and rendering functional components
 * Importing and exporting modules
